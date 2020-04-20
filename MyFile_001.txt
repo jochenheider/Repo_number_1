@@ -1,2 +1,5 @@
 This is MyFile_001.txt
+a
+bb
+ccc
 EOF
